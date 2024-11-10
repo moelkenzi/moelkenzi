@@ -1,14 +1,35 @@
+# Elkenzi Mohamed
+### Full-Stack Developer | Cybersecurity Specialist | EdTech Innovator
+
 ![Elkenzi Mohamed - Full-Stack Developer](Frame%201.png)
 
-- 👋 Hi, I’m `Elkenzi`
-- 👀 I’m interested in cybersecurity, AI, robotics, and creating impactful educational platforms for Somali learners.
-- 🌱 I’m currently learning  advanced cybersecurity practices and AI applications while deepening my skills in software development.
-- 💞️ I’m looking to collaborate on open-source projects, especially in the fields of educational tech, language learning, and security tools
-- 📫 How to reach me [Email](mailto:elkenzi@gmail.com).
-- 😄 Pronouns: Elon
-- ⚡ Fun fact: I’m a tech enthusiast nicknamed the 'Elon Musk of Somalia,' building platforms to empower Somali learners in tech and language!
+### 👋 About Me
+I'm a passionate technologist focused on leveraging technology to create meaningful impact, particularly in educational technology and cybersecurity. Based in Somalia, I'm dedicated to bridging the digital divide and empowering the next generation of tech professionals.
 
-<!---
-moelkenzi/moelkenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔭 Current Focus
+- Advancing cybersecurity solutions and best practices
+- Developing AI-powered educational platforms
+- Creating innovative learning tools for technology education
+- Building robust software solutions with a focus on security
+
+### 💡 Areas of Expertise
+- Full-Stack Development
+- Cybersecurity
+- Artificial Intelligence
+- Educational Technology
+- Robotics
+
+### 🤝 Collaboration
+I'm actively seeking collaboration opportunities in:
+- Open-source educational technology projects
+- Language learning platforms
+- Security tools and frameworks
+- Initiatives that promote tech education in East Africa
+
+### 📫 Connect With Me
+- 📧 Email: [elkenzi@gmail.com](mailto:elkenzi@gmail.com)
+- 𝕏 X(Twitter): [@moelkenzi](https://ww.x.com/moelkenzi)
+
+
+---
+*Dedicated to transforming technology education in Somalia and beyond.*
