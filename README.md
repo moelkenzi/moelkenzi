@@ -1,6 +1,3 @@
-# Elkenzi Mohamed
-### Full-Stack Developer | Cybersecurity Specialist | EdTech Innovator
-
 ![Elkenzi Mohamed - Full-Stack Developer](Frame%201.png)
 
 ### 👋 About Me
