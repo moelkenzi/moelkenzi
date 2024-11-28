@@ -1,4 +1,4 @@
-![Elkenzi Mohamed - Full-Stack Developer](./images/terminal.png)
+<img src="./images/terminal.png" alt="Elkenzi Mohamed - Full-Stack Developer" width="800" height="auto" align="center">
 
 ### 👋 About Me
 I'm a passionate technologist focused on leveraging technology to create meaningful impact, particularly in educational technology and cybersecurity. Based in Somalia, I'm dedicated to bridging the digital divide and empowering the next generation of tech professionals.
