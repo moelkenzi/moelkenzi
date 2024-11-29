@@ -27,6 +27,9 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moelkenzi&color=yellow&style=plastic&label=Profile+Views" alt="moelkenzi" />
+</p>
 
 ### 👋 About Me
 I'm a passionate technologist focused on leveraging technology to create meaningful impact, particularly in educational technology and cybersecurity. Based in Somalia, I'm dedicated to bridging the digital divide and empowering the next generation of tech professionals.
