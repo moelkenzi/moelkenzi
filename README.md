@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moelkenzi&color=yellow&style=plastic&label=Profile+Views" alt="moelkenzi" />
+  <img src="https://komarev.com/ghpvc/?username=moelkenzi&color=yellow&style=plastic&label=Profile+Views&abbreviated=true" alt="moelkenzi" />
 </p>
 
 ### 👋 About Me
